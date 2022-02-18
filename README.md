@@ -3,7 +3,6 @@
 # Learn Python with Tulasi Ram
 
 ### Hi there, I'm tulasi ram - Data Scientist [codeLOVEr] 
-[![GitHub issues](https://img.shields.io/github/issues/ram574/Python-Tutorial)](https://github.com/ram574/Python-Tutorial/issues)      [![GitHub license](https://img.shields.io/github/license/ram574/Python-Tutorial)](https://github.com/ram574/Python-Tutorial/blob/main/LICENSE)
 
 
 * Know more about me [** Portfolio **](https://tulasiram-portfolio.netlify.app) 👋
