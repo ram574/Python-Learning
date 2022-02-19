@@ -2,6 +2,8 @@
 
 # Learn Python with Tulasi Ram
 
+If you like this tutorial please give me star
+
 ### Hi there, I'm tulasi ram - Data Scientist [codeLOVEr] 
 
 
